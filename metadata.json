@@ -1,0 +1,6 @@
+{
+  "name": "Slither Arena",
+  "description": "Real-time multiplayer Slither.io arena for 1–5 players with intelligent AI bots, custom skins, private rooms, leaderboard, and smooth arcade physics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
